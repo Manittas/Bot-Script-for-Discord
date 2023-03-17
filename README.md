@@ -10,6 +10,9 @@ was developed as a personal project to have fun with friends during our calls in
 
 # Setup:
 
+
+Before starting any script, you will firstly need to create the bot you want the script to work through the [Discord Developer Portal](https://discord.com/developers/applications).
+
 To run this script the user will need to install **Python3** and **pip**, more specifically **version 3.10** of it (tutorial about it can be easily found through
 Google) and requires a **Unix shell**. After that you will need to install the required Python libraries and dependencies that are used in it.
 The first ones are the **discord.py**, which holds the Discord app API, **python-dotenv** and **gTTS** dependecies. For that just type in the console:
