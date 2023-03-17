@@ -11,9 +11,9 @@ public eye in case anyone gets access to the code in the script. The submitted *
 
 -------------------------------
 
-<h2 align="center">How To Use It</h2>
+<h1 align="center">How To Use It</h1>
 
-# Setup:
+### Setup:
 
 
 Before starting any script, you will firstly need to create the bot you want the script to work through the [Discord Developer Portal](https://discord.com/developers/applications).
@@ -35,7 +35,7 @@ sudo apt install ffmpeg
 pip3 install ffmpeg
 ```
 
-# Instructions:
+### Instructions:
 
 Both the script and *'.env'* file need to be in the same folder.
 
