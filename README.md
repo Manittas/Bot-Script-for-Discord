@@ -4,7 +4,7 @@ Basic Python script for a Discord bot that sends quotes through commands, plays 
 It was designed so that everytime someone types the word 'quote' in any sentence the bot would send a random quote that is stored in the *'.env'* file. This project
 was developed as a personal project to have fun with friends during our calls in the app Discord. **Discord** is a VoIP and instant messaging social platform, users
 have the ability to communicate with voice calls, video calls, text messaging, media and files in private chats or as part of communities called "servers" (these
-communities are referred as **"guilds"** in the Discord API that the script uses).
+communities are referred as **"guilds"** in the [Discord API](https://discordpy.readthedocs.io/en/stable/api.html) that the script uses).
 
 To provide more safety, it uses a *'.env'* file to read the quotes, bot token and id values that are stored there, in order to hide those values and ids from the
 public eye in case anyone gets access to the code in the script. The submitted *'.env'* file in this reposotory already has a prototype of how your file should look.
