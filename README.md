@@ -37,7 +37,7 @@ pip3 install ffmpeg
 
 ### Instructions:
 
-Both the script and *'.env'* file need to be in the same folder.
+Both the script and *'.env'* file need to be in the same folder. The *'.env'* file in this repository has now real values, instead it serves as an example of how it should look.
 
 To run the script the user just needs to type in the terminal:
 
